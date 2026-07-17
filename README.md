@@ -26,7 +26,6 @@ lines.
 | Skill | What it is |
 |---|---|
 | [karpathy](skills/karpathy.md) | Spec → verifier → environment: a three-layer method for keeping an AI coding agent honest on non-trivial work. |
-| [ponytail](skills/ponytail.md) | Lazy-senior-dev mode — YAGNI, stdlib first, shortest working diff — plus diff-review and repo-audit variants. |
 | [writing-great-skills](skills/writing-great-skills.md) | The vocabulary for making skills predictable: context load, completion criteria, progressive disclosure, failure modes. |
 | [skill-builder](skills/skill-builder.md) | Scaffold a new skill correctly the first time — frontmatter spec plus hardening house rules. |
 
@@ -57,17 +56,10 @@ lines.
 | [prompt-injection-defense](skills/prompt-injection-defense.md) | Fence untrusted external content as data, never instructions. |
 | [smereski-publish](skills/smereski-publish.md) | Ship a public content site through a mandatory privacy/secret scrub (genericized as "ship-with-privacy"). |
 
-### Third-party (adapted, credited)
-
-| Skill | Upstream |
-|---|---|
-| [drawio-skill](skills/drawio-skill.md) | [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) (MIT) — agent-driven draw.io diagrams; my copy keeps the CLI gotchas. |
-| ponytail (above) | Based on an open-source persona (MIT), credited in the file. |
-
 ## Notes
 
-- Every file is scrubbed: no machine paths, no internal hosts, no personal
-  data. Where the private version pins a local script or catalog, the public
-  version documents the pattern and the script's contract instead.
-- Licenses: this repo is MIT. Third-party-derived files keep their upstream
-  attribution inside the file.
+- Everything here is my own work. Every file is scrubbed: no machine paths,
+  no internal hosts, no personal data. Where the private version pins a local
+  script or catalog, the public version documents the pattern and the
+  script's contract instead.
+- License: MIT.
