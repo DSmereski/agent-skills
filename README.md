@@ -43,6 +43,19 @@ lines.
 | [store-listing](skills/store-listing.md) | Store copy + asset checklist, gated by a privacy scrub and a trademark-safety check. |
 | [play-policy-review](skills/play-policy-review.md) | A repeatable Google Play compliance audit run before every submission. |
 
+### Hive orchestration
+
+Patterns from running [Artificer](https://github.com/DSmereski/artificer),
+my self-hosted autonomous AI dev system.
+
+| Skill | What it is |
+|---|---|
+| [board-monitor](skills/board-monitor.md) | Keep an autonomous ticket board moving — verifier classification, fix ladder, hard-won guardrails. |
+| [delegate-to-hive](skills/delegate-to-hive.md) | The decision gate: hand work to the autonomous crew, or do it interactively? |
+| [hive-godot-tickets](skills/hive-godot-tickets.md) | Author Godot tickets a small local coding model can actually land. |
+| [dashboard-panel](skills/dashboard-panel.md) | Scaffold a self-registering, relevance-scored dashboard panel plugin from an endpoint. |
+| [hive-vault-graph](skills/hive-vault-graph.md) | Query a markdown knowledge vault as a confidence-tagged entity graph. |
+
 ### Agent utilities
 
 | Skill | What it is |
