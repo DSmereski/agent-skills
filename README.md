@@ -27,7 +27,6 @@ lines.
 |---|---|
 | [karpathy](skills/karpathy.md) | Spec → verifier → environment: a three-layer method for keeping an AI coding agent honest on non-trivial work. |
 | [writing-great-skills](skills/writing-great-skills.md) | The vocabulary for making skills predictable: context load, completion criteria, progressive disclosure, failure modes. |
-| [skill-builder](skills/skill-builder.md) | Scaffold a new skill correctly the first time — frontmatter spec plus hardening house rules. |
 
 ### Gamedev pipeline
 
